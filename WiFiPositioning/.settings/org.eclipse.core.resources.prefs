@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/console/Cli.java=UTF-8
+encoding//src/knn/distance/DivergenceDistance.java=UTF-8
+encoding//src/knn/distance/EuclidianDistance.java=UTF-8
+encoding//src/knn/distance/HassanatDistance.java=UTF-8
+encoding//src/knn/distance/InversionWeight.java=UTF-8
+encoding//src/knn/distance/JaccardDistance.java=UTF-8
+encoding//src/knn/distance/LorentzianDistance.java=UTF-8
+encoding//src/knn/distance/ManhattanDistance.java=UTF-8
+encoding//src/knn/distance/MaxSymmetricChiSquaredDistance.java=UTF-8
+encoding//src/knn/distance/Minkovsky4Distance.java=UTF-8
