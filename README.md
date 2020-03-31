@@ -7,4 +7,4 @@ Programme has three modes: <br/>
 *	validation; 
 *	analysis. 
 <br/>
-Programme user interface description (in Latvian) see in description folder. 
+Programme user interface description (in Latvian) see in https://github.com/arthuraleksandrovich/UJIIndoorLoc_KNN/blob/master/description/Description_Lat.md. 
