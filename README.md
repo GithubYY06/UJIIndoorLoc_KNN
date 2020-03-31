@@ -7,4 +7,4 @@ Programme has three modes: <br/>
 *	validation; 
 *	analysis. 
 <br/>
-Programme user interface description see in description folder. 
+Programme user interface description (in Latvian) see in description folder. 
